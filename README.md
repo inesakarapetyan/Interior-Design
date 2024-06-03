@@ -10,8 +10,9 @@ https://github.com/inesakarapetyan/Interior-Design/assets/165501683/6df4fc83-1e0
 |                                                            DESCRIPTION                                                                               |
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Interior Design Page where you can find inspiration for decorating your interior.
+IK InteriorDesign: Your Ultimate Resource for Interior Design Projects
 
+IK Interior Design is a comprehensive repository containing source code, design assets, and documentation for a range of innovative interior design projects. Whether you’re a designer, developer, or enthusiast, this repository offers valuable resources to inspire and facilitate your design journey.
 
 
 -----------------------------------------------------------
