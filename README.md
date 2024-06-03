@@ -2,8 +2,7 @@
 Django
 
 
-![photo-output](https://github.com/inesakarapetyan/Interior-Design/assets/165501683/3f07edae-4a3a-4b1c-9fad-ab5edf75e4b0)
-
+https://github.com/inesakarapetyan/Interior-Design/assets/165501683/b84fe24b-1692-443a-b91a-5ab286cd0422
 
 
 
