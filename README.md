@@ -2,7 +2,7 @@
 Django
 
 
-https://github.com/inesakarapetyan/Interior-Design/assets/165501683/b84fe24b-1692-443a-b91a-5ab286cd0422
+https://github.com/inesakarapetyan/Interior-Design/assets/165501683/6df4fc83-1e07-40a1-b13b-4a4a9e8622fb
 
 
 
